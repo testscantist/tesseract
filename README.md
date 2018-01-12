@@ -1,4 +1,4 @@
-# Tesseract OCR
+# Tesseract OCR test
 
 ### Build 
 [![Build Status](https://travis-ci.org/tesseract-ocr/tesseract.svg?branch=master)](https://travis-ci.org/tesseract-ocr/tesseract)
